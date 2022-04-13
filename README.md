@@ -5,11 +5,9 @@ animation by default and is okay until the length of the scroll is not so big. F
 Here is this amazing android library that will make scrolling as interesting as playing a game.
 
 
-
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+https://user-images.githubusercontent.com/65817230/163135134-ed87325c-d520-4c97-b378-8e85d4a5694d.mp4
 
 ## Features
 
